@@ -1,6 +1,6 @@
-# 🌍 Smart Travel AI
+# 🌍 Smart Trip Planner
 
-Smart Travel AI is a simple web application that helps users find travel destinations and get suggestions using AI.
+Smart Trip Planner is a simple web application that helps users find travel destinations and get suggestions using AI.
 
 ---
 
@@ -26,13 +26,13 @@ Smart Travel AI is a simple web application that helps users find travel destina
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/smart-travel-ai.git
+git clone https://github.com/your-username/smart-trip_planner.git
 ```
 
 2. Go to project folder:
 
 ```
-cd smart-travel-ai
+cd smart trip planner
 ```
 
 3. Install required packages:
@@ -74,5 +74,5 @@ Anjali Anakle
 Replace this link with your GitHub repo link:
 
 ```
-https://github.com/anjali66926/smart-travel-ai.git
+https://github.com/anjali66926/smart trip planner.git
 ```
