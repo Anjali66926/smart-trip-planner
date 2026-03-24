@@ -1,0 +1,27 @@
+body {
+  background: linear-gradient(135deg,#667eea,#764ba2);
+  color: white;
+  font-family: 'Segoe UI';
+}
+
+.hero {
+  text-align:center;
+  padding:100px;
+}
+
+.search-box select, button {
+  padding:14px;
+  margin:6px;
+  border-radius:12px;
+}
+
+button {
+  background: linear-gradient(45deg,#ff512f,#dd2476);
+  color:white;
+  border:none;
+  box-shadow:0 10px 0 #b31217;
+}
+
+button:hover {
+  transform: translateY(-5px) rotateX(12deg);
+}
